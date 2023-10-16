@@ -1,0 +1,7 @@
+test_corners = image.copy()
+for c in  range (len(approx)):
+    x,y = approx[c][0] , approx[c][1]
+    image_corners = cv2.circle(test_corners, (x,y), 20, (0,255,0), 5)
+    
+plt.imshow(image_corners)
+print(corners.shape)

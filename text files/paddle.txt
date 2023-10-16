@@ -1,0 +1,2 @@
+-PaddleOCR is trained on colab using GPU(CPU) training is provided also in the notebook.
+-the paddleocr module that work on the inference model doesn't work using GPU, only works using CPU.

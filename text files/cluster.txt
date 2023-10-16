@@ -1,0 +1,14 @@
+proxy settings: 10.*;192.168.*;financial;195.233.39.70;idm.vodafone.com;*.vf-eg.internal.vodafone.com;*.internal.eg.vodafone.com;lyncdiscover.eg.vodafone.com;lyncdiscoverinternal.eg.vodafone.com;meet.eg.vodafone.com;dialin.eg.vodafone.com;archive.vodafone.com.eg;owa*;*.local;Webmail.vodafone.com.eg*;172.*;pims.vodafone.com;ps.pims.vodafone.com;test.pims.vodafone.com;Storefront.vodafone.com.eg;*dchq.openshift.vodafone.com.eg;*Fed.vodafone.com*;password.vodafone.com;mywork.vodafone.com.eg;wfh.vodafone.com.eg;vodafonetube.vodafone.com*;*.ocp-*;*.docs.internal.eg.vodafone.com;ccat.dceg.*;*.pos.*;vfegenmrm.*;dcrfnpb1.*;outlook.office.*;outlook.office365.*;Citrix.vodafone.*;siebelapp-dashboard.*;Bota.*
+
+
+pytorch: http://10.230.179.62:8003/tree
+
+keras: http://10.230.179.62:8002/tree
+
+ipython terminal : source /disk01/python/v3_11/envs/pytorch_v4/bin/activate
+
+ds_sh@red_jupyter
+
+ 
+
+pyt0rsh
